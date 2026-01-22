@@ -27,8 +27,7 @@ This portfolio focuses on how data is applied to support:
 |------|------|-----------|------|
 | Operational Abandonment Reduction & CR Recovery | Operations Strategy | Capacity, Strategy | [View Project](https://github.com/HungNguyen52020/Abandoned-Task-Controlling) |
 | Hourly Backlog & Workforce Control System | BPO Operations | Bottleneck detection & workload optimization |  [View Project](https://github.com/HungNguyen52020/Hourly-Backlog-Workforce-Control-System) |
-| Retail Operations Optimization | Retail | Staffing & Profitability |  Waiting... |
-| Project Cost & Resource Control | Construction | Budget & Risk Management |  Waiting... |
+|  HOSE Money Flow Tracking | | Investment Analytics | Money flow tracking & sector rotation analysis | [View Project](https://github.com/HungNguyen52020/Hose-MoneyFlow-Tracking) |
 
 ---
 
