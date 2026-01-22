@@ -25,7 +25,7 @@ This portfolio focuses on how data is applied to support:
 
 | Project | Domain | Core Focus | Link |
 |------|------|-----------|------|
-| Workforce Planning Engine | Large-scale Operations | Forecast, Capacity, HC, Cost | [View Project](https://github.com/HungNguyen52020/Abandoned-Task-Controlling) |
+| Operational Abandonment Reduction & CR Recovery | Large-scale Operations | Capacity, Strategy | [View Project](https://github.com/HungNguyen52020/Abandoned-Task-Controlling) |
 | Decision Support System for Ops | Operations Strategy | Scenario & Trade-offs |  Waiting... |
 | Retail Operations Optimization | Retail | Staffing & Profitability |  Waiting... |
 | Project Cost & Resource Control | Construction | Budget & Risk Management |  Waiting... |
