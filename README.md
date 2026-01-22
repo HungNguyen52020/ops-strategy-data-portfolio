@@ -25,8 +25,8 @@ This portfolio focuses on how data is applied to support:
 
 | Project | Domain | Core Focus | Link |
 |------|------|-----------|------|
-| Operational Abandonment Reduction & CR Recovery | Large-scale Operations | Capacity, Strategy | [View Project](https://github.com/HungNguyen52020/Abandoned-Task-Controlling) |
-| Decision Support System for Ops | Operations Strategy | Scenario & Trade-offs |  Waiting... |
+| Operational Abandonment Reduction & CR Recovery | Operations Strategy | Capacity, Strategy | [View Project](https://github.com/HungNguyen52020/Abandoned-Task-Controlling) |
+| Hourly Backlog & Workforce Control System | BPO Operations | Bottleneck detection & workload optimization |  [View Project](https://github.com/HungNguyen52020/Hourly-Backlog-Workforce-Control-System) |
 | Retail Operations Optimization | Retail | Staffing & Profitability |  Waiting... |
 | Project Cost & Resource Control | Construction | Budget & Risk Management |  Waiting... |
 
