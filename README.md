@@ -25,10 +25,10 @@ This portfolio focuses on how data is applied to support:
 
 | Project | Domain | Core Focus | Link |
 |------|------|-----------|------|
-| Workforce Planning Engine | Large-scale Operations | Forecast, Capacity, HC, Cost | 👉 |
-| Decision Support System for Ops | Operations Strategy | Scenario & Trade-offs | 👉 |
-| Retail Operations Optimization | Retail | Staffing & Profitability | 👉 |
-| Project Cost & Resource Control | Construction | Budget & Risk Management | 👉 |
+| Workforce Planning Engine | Large-scale Operations | Forecast, Capacity, HC, Cost | Waiting... |
+| Decision Support System for Ops | Operations Strategy | Scenario & Trade-offs |  Waiting... |
+| Retail Operations Optimization | Retail | Staffing & Profitability |  Waiting... |
+| Project Cost & Resource Control | Construction | Budget & Risk Management |  Waiting... |
 
 ---
 
